@@ -1,4 +1,5 @@
 From ubuntu:20.04
+label maintainer="Jordan buitrago <1608@holbertonschool.com"
 
 WORKDIR /app/
 
